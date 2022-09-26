@@ -1,0 +1,20 @@
+img{
+    height: 186px;
+    width: 36px;
+    background-color: black;
+}
+.heading{
+    margin-top: 10px;
+    font-size:23px;
+    color: black;
+    padding: 0;
+    margin-left: 20px;
+}
+.navbar{
+    background-color: whitesmoke;
+}
+.navbar-item{
+    margin-right: 20px;
+    font-size: 20px;
+
+}
